@@ -33,6 +33,14 @@
     ```shell
     poetry install
     ```
+    
+# Downloading `abcd_fastqc01.txt`
+
+Follow the instructions in `docs/prepare.md` before proceeding. For more information on `downloadcmd` see the [nda-tools repository](https://github.com/NDAR/nda-tools) README.md. Enter the package id from the fastqc package (the first package created) in `<package-id>` and the destination directory in `<directory>`.
+
+```shell
+downloadcmd -dp <package-id> -d <directory>
+```
 
 ## Resource Request Guidance for `pipeline.py`
 
