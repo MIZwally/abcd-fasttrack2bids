@@ -1,11 +1,10 @@
 # Downloading and Converting
 
-## 1. Download fastqc file
+## Requirements for running `swarm.sh`
 
-This involves using `downloadcmd` which is part of the `nda-tools` package. You will need the package id for the fastqc data package created earlier. See the `nda-tools` documentation for more information about using `downloadcmd`.
-
-Once the package is downloaded, locate the `abcd_fastqc01.txt` file and make note of its path, as it will be needed for the next step.
-
+- `abcd-fastqc01.txt`
+- a `.csv` file containing all session ids to be converted
+- access to the `MATLAB Compiler Runtime Environment (MCR)`
 
 ## 2. Run swarm.sh
 
