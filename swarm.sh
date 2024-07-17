@@ -14,7 +14,7 @@ SESSIONS_CSV=/data/NIMH_scratch/zwallymi/earlea-d2b/subject_lists/unconverted_se
 NDA_PACKAGE_ID=1230684
 
 # The path to the abcd_fastqc01.txt file downloaded as-is from the NDA
-ABCD_FASTQC01=/data/NIMH_scratch/zwallymi/abcd-fasttrack2bids/downloads/abcd_fastqc01.txt
+ABCD_FASTQC01=/data/NIMH_scratch/zwallymi/abcd-fasttrack2bids/fastqc_package/abcd_fastqc01.txt
 
 # The base directory where the swarm logs will be stored
 LOG_BASEDIR=/data/NIMH_scratch/zwallymi/abcd-fasttrack2bids/logs

@@ -10,3 +10,4 @@ crash-*.pklz
 logs/
 downloads/
 tiny.swarm
+fastqc_package/
