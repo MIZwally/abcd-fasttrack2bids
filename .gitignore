@@ -8,3 +8,5 @@ poetry.lock
 crash-*.pklz
 *.log
 logs/
+downloads/
+tiny.swarm
