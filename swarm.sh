@@ -5,7 +5,7 @@
 ######################################################
 
 # The base directory where the BIDS data will be stored
-BIDS_BASEDIR=/data/NIMH_scratch/zwallymi/abcd-fasttrack2bids/downloads/bids_20240717
+BIDS_BASEDIR=/data/NIMH_scratch/zwallymi/abcd-fasttrack2bids/downloads/bids_20240722
 
 # The comma-separated value file containing the subject,session information expected in fasttrack2s3.py
 SESSIONS_CSV=/data/NIMH_scratch/zwallymi/earlea-d2b/subject_lists/unconverted_sessions_20240708.csv

@@ -9,5 +9,8 @@ crash-*.pklz
 *.log
 logs/
 downloads/
-tiny.swarm
+tiny22.swarm
+medium22.swarm
 fastqc_package/
+swarm_no_func.sh
+swarm_with_func.sh
