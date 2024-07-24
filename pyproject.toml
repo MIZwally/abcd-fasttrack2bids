@@ -15,6 +15,7 @@ keyrings-alt = "^5.0.1"
 pybids = "^0.16.5"
 setuptools = "^70.0.0"
 pydicom = "^2.4.4"
+keyring = "^25.2.1"
 
 [build-system]
 requires = ["poetry-core"]
